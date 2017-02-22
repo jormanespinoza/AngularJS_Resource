@@ -1,0 +1,17 @@
+a,
+a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+
+.top-space {
+	margin-top: 1em;
+}
+
+.set-img {
+	height: 160px;	
+}
+
+.around-space {
+	padding: 1em;
+}
